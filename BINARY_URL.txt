@@ -1,0 +1,1 @@
+https://github.com/EntrustCorporation/biometric-passkey-ios/releases/download/artifacts%2Fv1.0.0/BiometricPasskeySDK-1.0.0.xcframework.zip
