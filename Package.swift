@@ -18,8 +18,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "BiometricPasskeySDK",
-            url: "https://github.com/EntrustCorporation/biometric-passkey-ios/releases/download/artifacts%2Fv1.0.0/BiometricPasskeySDK-1.0.0.xcframework.zip",
-            checksum: "c8ec1a2528f51f6b6cb37d211bfdd66011c6eb1b1b08e11c74b962d1beb588c6"
+            url: "https://github.com/EntrustCorporation/biometric-passkey-ios/releases/download/artifacts%2Fv1.0.1/BiometricPasskeySDK-1.0.1.xcframework.zip",
+            checksum: "54519dbc8285468c435113f181bc73f2beae45c56ce518b458025f7ca803611f"
         ),
         .target(
             name: "BiometricPasskeySDKPackageSupport",
